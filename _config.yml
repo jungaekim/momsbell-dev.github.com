@@ -65,5 +65,6 @@ address:
 # Build settings
 auto: true
 safe: true
+lsi: false
 markdown: kramdown
-permalink: pretty
+permalink: pygments
